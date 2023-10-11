@@ -1,0 +1,211 @@
+[{
+  "name": "SpotMini",
+  "models": "https://raw.githubusercontent.com/ravendano014/spotmini/main/",
+  "parts": [
+    { 
+    "mesh_id": "ukaq",    
+    "mesh_name":"B_cover_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "akaq",
+    "mesh_name":"B_cover_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "bkaq",
+    "mesh_name":"F_cover.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "ykaq",
+    "mesh_name":"I_shoulder_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "zkaq",
+    "mesh_name":"I_shoulder_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]    
+    },{
+    "mesh_id": "ckaq",
+    "mesh_name":"L_arm_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "dkaq",
+    "mesh_name":"L_arm_cover.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "ekaq",
+    "mesh_name":"L_arm_joint_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "fkaq",
+    "mesh_name":"L_arm_joint_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "gkaq",
+    "mesh_name":"L_arm_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "hkaq",
+    "mesh_name":"L_side_plate.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "ikaq",
+    "mesh_name":"L_ultra_sonic.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "jkaq",
+    "mesh_name":"L_wrist_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "kkaq",
+    "mesh_name":"L_wrist_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "lkaq",
+    "mesh_name":"O_shoulder.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "mkaq",
+    "mesh_name":"R_arm_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "nkaq",
+    "mesh_name":"R_arm_cover.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "okaq",
+    "mesh_name":"R_arm_joint_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "pkaq",
+    "mesh_name":"R_arm_joint_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "qkaq",
+    "mesh_name":"R_arm_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "rkaq",
+    "mesh_name":"R_cover.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "skaq",
+    "mesh_name":"R_side_plate.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "tkaq",
+    "mesh_name":"R_ultra_sonic.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "vkaq",
+    "mesh_name":"R_wrist_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkaq",
+    "mesh_name":"R_wrist_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkaa",
+    "mesh_name":"T_cover_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkab",
+    "mesh_name":"T_cover_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkac",
+    "mesh_name":"foot.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkad",
+    "mesh_name":"non-mega_B_cover_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkae",
+    "mesh_name":"non-mega_B_cover_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkaf",
+    "mesh_name":"non-mega_L_side_plate.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkag",
+    "mesh_name":"non-mega_T_cover_cls.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+    "mesh_id": "wkah",
+    "mesh_name":"non-mega_T_cover_mg.stl",
+    "position": [{ "x": 0, "y": 0, "z": 0}],
+    "rotation": [{ "x": 0, "y": 0, "z": 0}],
+    "color": [{ "r": 1, "g": 1, "b": 1}]
+    },{
+      "mesh_id": "wkai",
+      "mesh_name":"plate.stl",
+      "position": [{ "x": 0, "y": 0, "z": 0}],
+      "rotation": [{ "x": 0, "y": 0, "z": 0}],
+      "color": [{ "r": 1, "g": 1, "b": 1}]
+      }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+  ]
+}]
